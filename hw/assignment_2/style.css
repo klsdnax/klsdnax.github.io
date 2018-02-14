@@ -1,7 +1,17 @@
+.greentext {
+  color: green;
+}
 #maintitle {
  text-decoration:
  underline;
  color: red;
  font-family: 'Kavivanar', cursive;
-
 }
+a {
+  color: brown;
+  text-decoration: none
+}
+a:hover {
+text-decoration: underline;
+}
+a:visited { }
