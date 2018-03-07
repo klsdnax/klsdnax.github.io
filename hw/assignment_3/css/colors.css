@@ -1,10 +1,10 @@
-.dark-bg { background: #AE4300; }
-.medium-bg { background: #FF6708; }
-.light-bg { background: #FFA066; }
+.dark-bg { background: #246068; }
+.medium-bg { background: #427A82; }
+.light-bg { background: #69969C; }
 
-.dark-txt { color: #AE4300; }
-.medium-txt { color: #FF6708; }
-.light-txt { color: #FFA066; }
+.dark-txt { color: #246068; }
+.medium-txt { color: #427A82; }
+.light-txt { color: #69969C; }
 
 .gallery {
   display: block;
@@ -23,7 +23,7 @@
   display: block;
 }
 .outerimage {
-  background: url('../images/wide.jpeg') top center no-repeat;
+  background: url('../images/IMG_0996.jpg') top center no-repeat;
   background-size: cover;
   height: 400px;
 
