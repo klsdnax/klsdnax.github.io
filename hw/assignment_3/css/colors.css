@@ -23,7 +23,7 @@
   display: block;
 }
 .outerimage {
-  background: url('../images/cartoon.jpg') top center no-repeat;
+  background: url('images/cartoon.jpg') top center no-repeat;
   background-size: cover;
   height: 400px;
 
