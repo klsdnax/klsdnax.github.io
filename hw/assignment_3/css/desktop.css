@@ -37,8 +37,8 @@ nav li {
  /* Gallery layout */
  .gallery { width: 960px;}
  .gallery li {
-   width: 298px;
-   height: 298px;
+   width: 250px;
+   height: 250px;
    margin: 10px;
    float: left;
  }
