@@ -1,7 +1,7 @@
 #howTo li {display: none;}
 #howTo li.active {display: block;}
 .image-bg {
-  background-image: url("../images/step34.jpeg");
+  background-image: url("../images/menu.jpg");
   background-size: cover;
   background-repeat: repeat;
   background-position: center; }
