@@ -17,12 +17,12 @@
 .head {font-size: 100;
 text-align: center;
 color: #499371;
-font-family: Courgette;
+font-family: Montserrat;
 }
 
 .image-bg {
   font-size: 30;
-  font-family: Comfortaa;
+  font-family: Montserrat;
   background-image: url("images/wo8.JPG");
   width: 1000px;
   display: block;
@@ -48,7 +48,7 @@ display: block;}
 
 .list {text-align: center;
 font-size: 50px;
-font-family: Comfortaa;}
+font-family: Montserrat;}
 
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 html, body {
@@ -59,7 +59,7 @@ body {
     background: #fff;
     padding: 0;
     margin: 0;
-    font-family: 'Varela Round', sans-serif;
+    font-family: 'Bitter', serif;
 }
 
 }
